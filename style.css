@@ -1,0 +1,13 @@
+body{
+	
+	background-size: cover; 
+}
+
+.pull-right {
+  float: right !important;
+}
+
+#imgsena {
+  width: 100px;
+  height: 100px;
+}
